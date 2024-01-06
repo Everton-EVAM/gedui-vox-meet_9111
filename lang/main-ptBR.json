@@ -1422,7 +1422,7 @@
         "go": "IR",
         "goSmall": "IR",
         "headerSubtitle": "Reuniões com segurança e alta qualidade",
-        "headerTitle": "Jitsi Meet",
+        "headerTitle": "GEDUI Vox",
         "info": "Informações",
         "jitsiOnMobile": "Jitsi em dispositivos móveis – baixe nossos aplicativos e inicie uma reunião em qualquer lugar",
         "ourProducts": "Conheca mais sobre os nossos produtos, contamos com diversas ferramentas para lhe auxiliar na sua jornada.",
@@ -1431,7 +1431,7 @@
             "calendar": "Logo do Calendário",
             "desktopPreviewThumbnail": "Miniatura de Visualização do Desktop",
             "googleLogo": "Logo do Google",
-            "logoDeepLinking": "Logo do Jitsi Meet",
+            "logoDeepLinking": "Logo do GEDUI Vox",
             "microsoftLogo": "Logo da Microsoft",
             "policyLogo": "Logo da Política de Privacidade"
         },
@@ -1454,7 +1454,8 @@
         "startMeeting": "Iniciar reunião",
         "terms": "Termos",
         "title": "Videoconferências mais seguras, flexíveis e totalmente gratuitas",
-        "upcomingMeetings": "Suas próximas reuniões"
+        "upcomingMeetings": "Suas próximas reuniões",
+        "instagram": "instagram"
     },
     "whiteboard": {
         "accessibilityLabel": {

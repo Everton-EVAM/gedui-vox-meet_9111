@@ -396,15 +396,35 @@ class WelcomePage extends AbstractWelcomePage<IProps> {
                                 </p>
                             </a>
                         </div>
+                        <div className = ' '>
+                            <a
+                                className = 'welcome-badge welcome-footer-social-media'
+                                href = { androidDownloadLink }>
+                                <img
+                                    alt = { t('welcomepage.instagram') }
+                                    src = './images/icon_instagram.svg' />
+                            </a>
+                            <a
+                                className = 'welcome-badge welcome-footer-social-media'
+                                href = { androidDownloadLink }>
+                                <img
+                                    alt = { t('welcomepage.instagram') }
+                                    src = './images/icon_linkedin.svg' />
+                            </a>
+                            <a
+                                className = 'welcome-badge welcome-footer-social-media'
+                                href = { androidDownloadLink }>
+                                <img
+                                    alt = { t('welcomepage.instagram') }
+                                    src = './images/icon_whatsapp.svg' />
+                            </a>
+                        </div>
                     </div>
-                    <div>
-                        <p
-                            className = 'footer-text-href'
-                        >
-                            Conectando o aprendizado,
-                            transformando o indivíduo.
-                        </p>
-                    </div>
+                    <p
+                        className = 'footer-text-href'>
+                        Conectando o aprendizado,
+                        transformando o indivíduo.
+                    </p>
                 </div>
             </div>
         </footer>);

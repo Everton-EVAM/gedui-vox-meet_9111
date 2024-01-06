@@ -319,7 +319,7 @@ body.welcome-page {
     }
 
     .welcome-footer {
-        background: #131519;
+        background: #272a2b;
         color: #fff;
         margin-top: 40px;
         position: relative;
@@ -353,21 +353,15 @@ body.welcome-page {
         max-width: 200px;
         margin-right: 16px;
     }
-    .welcome-footer-row- {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        border-bottom: 1px solid #424447;
-
-        &:last-child {
-            border-bottom: none;
-        }
+    .welcome-footer-social-media {
+        margin: 0 6px 0 6px;
     }
     .footer-text-href {
-        color: #fff;
+        color: #FDB913;
         font-size: 20px;
         font-weight: 600;
         line-height: 26px;
+        margin: 16px 0 32px 0;
         margin: 16px 0 32px 0;
         text-align: $welcomePageHeaderTextAlign;
     }
