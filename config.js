@@ -122,16 +122,16 @@ var config = {
     // Disables self-view settings in UI
     // disableSelfViewSettings: false,
 
-    // screenshotCapture : {
-    //      Enables the screensharing capture feature.
-    //      enabled: false,
-    //
-    //      The mode for the screenshot capture feature.
-    //      Can be either 'recording' - screensharing screenshots are taken
-    //      only when the recording is also on,
-    //      or 'always' - screensharing screenshots are always taken.
-    //      mode: 'recording',
-    // }
+    screenshotCapture : {
+        //  Enables the screensharing capture feature.
+         enabled: false,
+    
+        //  The mode for the screenshot capture feature.
+        //  Can be either 'recording' - screensharing screenshots are taken
+        //  only when the recording is also on,
+        //  or 'always' - screensharing screenshots are always taken.
+         mode: 'recording',
+    }
 
     // Disables ICE/UDP by filtering out local and remote UDP candidates in
     // signalling.
@@ -174,10 +174,10 @@ var config = {
 
     // Start the conference in audio only mode (no video is being received nor
     // sent).
-    // startAudioOnly: false,
+    startAudioOnly: true,
 
     // Every participant after the Nth will start audio muted.
-    // startAudioMuted: 10,
+    startAudioMuted: 4,
 
     // Start calls with audio muted. Unlike the option above, this one is only
     // applied locally. FIXME: having these 2 options is confusing.
@@ -280,7 +280,7 @@ var config = {
     // disableSimulcast: false,
 
     // Every participant after the Nth will start video muted.
-    // startVideoMuted: 10,
+    startVideoMuted: 5,
 
     // Start calls with video muted. Unlike the option above, this one is only
     // applied locally. FIXME: having these 2 options is confusing.
@@ -346,16 +346,16 @@ var config = {
     // fileRecordingsServiceSharingEnabled: false,
 
     // Local recording configuration.
-    // localRecording: {
-    //     // Whether to disable local recording or not.
-    //     disable: false,
+    localRecording: {
+        // Whether to disable local recording or not.
+        disable: false,
 
-    //     // Whether to notify all participants when a participant is recording locally.
-    //     notifyAllParticipants: false,
+        // Whether to notify all participants when a participant is recording locally.
+        notifyAllParticipants: false,
 
-    //     // Whether to disable the self recording feature (only local participant streams).
-    //     disableSelfRecording: false,
-    // },
+        // Whether to disable the self recording feature (only local participant streams).
+        disableSelfRecording: false,
+    },
 
     // Customize the Live Streaming dialog. Can be modified for a non-YouTube provider.
     // liveStreaming: {
@@ -613,15 +613,15 @@ var config = {
 
     // DEPRECATED. Please use `lobby?.autoKnock` instead.
     // If Lobby is enabled starts knocking automatically.
-    // autoKnockLobby: false,
+    autoKnockLobby: true,
 
     // DEPRECATED. Please use `lobby?.enableChat` instead.
     // Enable lobby chat.
-    // enableLobbyChat: true,
+    enableLobbyChat: true,
 
     // DEPRECATED! Use `breakoutRooms.hideAddRoomButton` instead.
     // Hides add breakout room button
-    // hideAddRoomButton: false,
+    hideAddRoomButton: true,
 
     // Require users to always specify a display name.
     // requireDisplayName: true,
@@ -644,12 +644,12 @@ var config = {
     // },
 
     // Configs for the lobby screen.
-    // lobby: {
-    //     // If Lobby is enabled, it starts knocking automatically. Replaces `autoKnockLobby`.
-    //     autoKnock: false,
-    //     // Enables the lobby chat. Replaces `enableLobbyChat`.
-    //     enableChat: true,
-    // },
+    lobby: {
+        // If Lobby is enabled, it starts knocking automatically. Replaces `autoKnockLobby`.
+        autoKnock: false,
+        // Enables the lobby chat. Replaces `enableLobbyChat`.
+        enableChat: true,
+    },
 
     // Configs for the security related UI elements.
     // securityUi: {
