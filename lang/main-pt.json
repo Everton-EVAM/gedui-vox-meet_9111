@@ -16,7 +16,7 @@
         "failedToAdd": "Falha ao adicionar participantes",
         "googleEmail": "Email do Google",
         "inviteMoreHeader": "É o único na reunião",
-        "inviteMoreMailSubject": "Participar na reunião {{appName}}",
+        "inviteMoreMailSubject": "Participar na reunião Gedui Vox",
         "inviteMorePrompt": "Convidar mais pessoas",
         "linkCopied": "Link copiado para a área de transferência",
         "noResults": "Sem resultados de pesquisa correspondentes",
@@ -447,7 +447,7 @@
         "stopRecordingWarning": "Tem a certeza de que gostaria de parar a gravação?",
         "stopStreamingWarning": "Tem a certeza de que gostaria de parar a transmissão em direto?",
         "streamKey": "Chave de transmissão em direto",
-        "thankYou": "Obrigado por utilizar {{appName}}!",
+        "thankYou": "Obrigado por utilizar Gedui Vox!",
         "token": "token",
         "tokenAuthFailed": "Desculpe, não está autorizado a juntar-se a esta chamada.",
         "tokenAuthFailedReason": {
@@ -1049,7 +1049,7 @@
         "audio": "Áudio",
         "buttonLabel": "Definições",
         "calendar": {
-            "about": "A integração do calendário {{appName}} é utilizada para aceder com segurança ao seu calendário para que este possa ler os próximos eventos.",
+            "about": "A integração do calendário Gedui Vox é utilizada para aceder com segurança ao seu calendário para que este possa ler os próximos eventos.",
             "disconnect": "Desligar",
             "microsoftSignIn": "Iniciar sessão com a Microsoft",
             "signedIn": "Atualmente a aceder a eventos de calendário por {{email}}. Clique no botão Desconectar abaixo para parar de aceder a eventos de calendário.",

@@ -269,7 +269,7 @@
         "stopRecordingWarning": "Confirma que quere parar a gravación?",
         "stopStreamingWarning": "Confirma que quere parar a difusión ao vivo?",
         "streamKey": "Clave de vídeo ao vivo",
-        "thankYou": "Grazas por utilizar {{appName}}!",
+        "thankYou": "Grazas por utilizar Gedui Vox!",
         "token": "token",
         "tokenAuthFailed": "Desculpe, non ten permiso para unirse a esta chamada.",
         "tokenAuthFailedTitle": "Fallou a autenticación",
@@ -509,7 +509,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "A integración do calendario de {{appName}} utilízase para asegurar o acceso ao seu calendario e que poida consultar citas.",
+            "about": "A integración do calendario de Gedui Vox utilízase para asegurar o acceso ao seu calendario e que poida consultar citas.",
             "disconnect": "Desconectar",
             "microsoftSignIn": "Iniciar sesión con Microsoft",
             "signedIn": "Accedendo neste intre ás citas de calendario de {{email}}. Prema no botón Desconectar de abaixo se quere deter o acceso ás citas do calendario.",

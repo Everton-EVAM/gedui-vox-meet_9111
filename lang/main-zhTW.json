@@ -16,7 +16,7 @@
         "failedToAdd": "加入與會者失敗",
         "googleEmail": "Google Email",
         "inviteMoreHeader": "目前只有您一個人在會議中",
-        "inviteMoreMailSubject": "加入 {{appName}} 會議",
+        "inviteMoreMailSubject": "加入 Gedui Vox 會議",
         "inviteMorePrompt": "邀請更多人",
         "linkCopied": "已將連結複製至剪貼簿",
         "noResults": "沒有符合的搜尋結果",
@@ -447,7 +447,7 @@
         "stopRecordingWarning": "確定要停用錄製嗎？",
         "stopStreamingWarning": "確定要停止直播串流嗎？",
         "streamKey": "直播串流金鑰",
-        "thankYou": "感謝您使用 {{appName}}！",
+        "thankYou": "感謝您使用 Gedui Vox！",
         "token": "token",
         "tokenAuthFailed": "抱歉，您未被允許加入這個通話。",
         "tokenAuthFailedReason": {
@@ -1049,7 +1049,7 @@
         "audio": "音訊",
         "buttonLabel": "設定",
         "calendar": {
-            "about": "{{appName}} 行事曆整合功能可安全地存取您行事曆中即將舉行的活動。",
+            "about": "Gedui Vox 行事曆整合功能可安全地存取您行事曆中即將舉行的活動。",
             "disconnect": "中斷連接",
             "microsoftSignIn": "使用 Microsoft 帳號登入",
             "signedIn": "目前正在存取 {{email}} 的行事曆事件，點按下方中斷連接可以停用存取行事曆事件。",

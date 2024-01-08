@@ -278,7 +278,7 @@
         "stopRecordingWarning": "Ar jūs esate įsitikinę, kad norite sustabdyti įrašymą?",
         "stopStreamingWarning": "Ar esate įsitikinę, kad norite sustabdyti tiesioginę transliaciją?",
         "streamKey": "Tiesioginės transliacijos kodas",
-        "thankYou": "Ačiū, kad naudojate {{appName}}!",
+        "thankYou": "Ačiū, kad naudojate Gedui Vox!",
         "token": "ženklas",
         "tokenAuthFailed": "Atsiprašome, jūs negalite prisijungti prie šio skambučio.",
         "tokenAuthFailedTitle": "Autentifikavimas neįvyko",
@@ -522,7 +522,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "{{appName}} kalendoriaus integracija yra naudojama, kad saugiai išsaugoti ir sekti būsimus įvykius.",
+            "about": "Gedui Vox kalendoriaus integracija yra naudojama, kad saugiai išsaugoti ir sekti būsimus įvykius.",
             "disconnect": "Atsijungti",
             "microsoftSignIn": "Prisijungti su Microsoft",
             "signedIn": "Šiuo metu kalendoriuje išsaugoti įvykiai pasiekiami {{email}}. Paspauskite Atsijungti mygtuką, kad sustabdyti prieigą prie kalendoriuje sužymėtų įvykių.",

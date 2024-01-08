@@ -279,7 +279,7 @@
         "stopRecordingWarning": "האם אתה בטוח שברצונך להפסיק את ההקלטה?",
         "stopStreamingWarning": "האם אתה בטוח שברצונך להפסיק את השידור החי?",
         "streamKey": "מפתח שידור חי",
-        "thankYou": "תודה שהשתמשת ב{{appName}}!",
+        "thankYou": "תודה שהשתמשת בGedui Vox!",
         "token": "אסימון",
         "tokenAuthFailed": "מצטערים, אינך רשאי להצטרף לשיחה זו.",
         "tokenAuthFailedTitle": "אימות כשל",
@@ -471,7 +471,7 @@
         "somebody": "מישהו",
         "startSilentDescription": "הצטרף שוב לפגישה כדי לאפשר שמע",
         "startSilentTitle": "הצטרפת ללא פלט שמע!",
-        "suboptimalExperienceDescription": "אופ... אנו חוששים שהחוויה שלך עם {{appName}} לא תהיה נהדרת כאן. אנו מחפשים דרכים לשפר זאת, אך עד אז, נסה להשתמש באחד מה<a href='{{recommendedBrowserPageLink}}' target='_blank'>דפדפנים הנתמכים לחלוטין</a>.",
+        "suboptimalExperienceDescription": "אופ... אנו חוששים שהחוויה שלך עם Gedui Vox לא תהיה נהדרת כאן. אנו מחפשים דרכים לשפר זאת, אך עד אז, נסה להשתמש באחד מה<a href='{{recommendedBrowserPageLink}}' target='_blank'>דפדפנים הנתמכים לחלוטין</a>.",
         "suboptimalExperienceTitle": "אזהרת דפדפן",
         "unmute": "בטל השתקה"
     },
@@ -532,7 +532,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "האינטגרציה של לוח השנה {{appName}} משמשת לגישה מאובטחת ללוח השנה שלך כך שתוכל לקרוא אירועים קרובים.",
+            "about": "האינטגרציה של לוח השנה Gedui Vox משמשת לגישה מאובטחת ללוח השנה שלך כך שתוכל לקרוא אירועים קרובים.",
             "disconnect": "מנותק",
             "microsoftSignIn": "התחבר עם מיקרוסופט",
             "signedIn": "נכנס כעת לאירועי לוח השנה עבור {{email}}. לחץ על כפתור הניתוק למטה כדי להפסיק את הגישה לאירועי לוח השנה.",

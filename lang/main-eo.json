@@ -13,7 +13,7 @@
         "failedToAdd": "Malsukcesis aldono de membroj",
         "googleEmail": "Google-retadreso",
         "inviteMoreHeader": "Vi estas la sola en la retkunsido",
-        "inviteMoreMailSubject": "Aliĝi al {{appName}}-retkunsido",
+        "inviteMoreMailSubject": "Aliĝi al Gedui Vox-retkunsido",
         "inviteMorePrompt": "Inviti pli da homoj",
         "linkCopied": "Ligilo kopiita al tondujo",
         "noResults": "Nenio trovita",
@@ -399,7 +399,7 @@
         "stopRecordingWarning": "Ĉu vi certe volas fini la registradon?",
         "stopStreamingWarning": "Ĉu vi certe volas fini la tujan elsendfluon?",
         "streamKey": "Ŝlosilo de tuja elsendfluo",
-        "thankYou": "Dankon ke vi uzas {{appName}}!",
+        "thankYou": "Dankon ke vi uzas Gedui Vox!",
         "token": "ĵetono",
         "tokenAuthFailed": "Pardonu, vi ne rajtas aliĝi al ĉi tiu voko.",
         "tokenAuthFailedTitle": "Aŭtentigo malsukcesis",
@@ -949,7 +949,7 @@
     "settings": {
         "buttonLabel": "Agordoj",
         "calendar": {
-            "about": "La integrigo de kalendaro {{appName}} estas uzata por sekure aliri vian kalendaron, por ke ĝi povu legi planitajn eventojn.",
+            "about": "La integrigo de kalendaro Gedui Vox estas uzata por sekure aliri vian kalendaron, por ke ĝi povu legi planitajn eventojn.",
             "disconnect": "Malkonekti",
             "microsoftSignIn": "Ensaluti per Microsoft",
             "signedIn": "Alirado al kalendaraj eventoj por {{email}}. Klaku la buton “Malkonekti” sube por ĉesigi aliradon al kalendaraj eventoj.",

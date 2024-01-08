@@ -330,7 +330,7 @@
         "stopRecordingWarning": "Valóban leállítható a felvétel?",
         "stopStreamingWarning": "Valóban leállítható az élő közvetítés?",
         "streamKey": "Élő közvetítés kulcsa",
-        "thankYou": "Köszönjük a {{appName}} használatát!",
+        "thankYou": "Köszönjük a Gedui Vox használatát!",
         "token": "jelsor",
         "tokenAuthFailed": "Sajnáljuk, a csatlakozása nem megengedett ehhez a híváshoz.",
         "tokenAuthFailedTitle": "Hitelesítés meghiúsult",
@@ -752,7 +752,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "A {{appName}} naptárintegráció a naptár biztonságos elérésére szolgál, így olvasni tudja a soron következő eseményeket.",
+            "about": "A Gedui Vox naptárintegráció a naptár biztonságos elérésére szolgál, így olvasni tudja a soron következő eseményeket.",
             "disconnect": "Szétkapcsolás",
             "microsoftSignIn": "Bejelentkezés a Microsofttal",
             "signedIn": "Jelenleg ehhez az címhez tartozó naptár eseményei érhetőek el: {{email}}. Alább a „szétkapcsolás” gombra kattintva lehet leállítani a naptár eseményeinek elérését.",

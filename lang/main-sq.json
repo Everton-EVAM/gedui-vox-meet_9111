@@ -13,7 +13,7 @@
         "failedToAdd": "S’u arrit të shtohen pjesëmarrës",
         "googleEmail": "Email Google",
         "inviteMoreHeader": "Në takim jeni vetëm ju",
-        "inviteMoreMailSubject": "Merrni pjesë në takim me {{appName}}",
+        "inviteMoreMailSubject": "Merrni pjesë në takim me Gedui Vox",
         "inviteMorePrompt": "Ftoni më tepër persona",
         "linkCopied": "Lidhja u kopjua në të papastër",
         "noResults": "S’ka përfundime kërkimi me përputhje",
@@ -414,7 +414,7 @@
         "stopRecordingWarning": "Jeni i sigurt se doni të ndalet regjistrimi?",
         "stopStreamingWarning": "Jeni i sigurt se doni të ndalet transmetimi i drejtpërdrejtë?",
         "streamKey": "Kyç transmetimi të drejtpërdrejtë",
-        "thankYou": "Faleminderit që përdorni {{appName}}!",
+        "thankYou": "Faleminderit që përdorni Gedui Vox!",
         "token": "token",
         "tokenAuthFailed": "Na ndjeni, s’keni leje të merrni pjesë në këtë thirrje.",
         "tokenAuthFailedTitle": "Mirëfilltësimi dështoi",
@@ -973,7 +973,7 @@
     "settings": {
         "buttonLabel": "Rregullime",
         "calendar": {
-            "about": "Integrimi me kalendar {{appName}} përdoret për të hyrë me sukses te kalendari juaj, që kështu të mund të lexohen veprimtari të ardhshme.",
+            "about": "Integrimi me kalendar Gedui Vox përdoret për të hyrë me sukses te kalendari juaj, që kështu të mund të lexohen veprimtari të ardhshme.",
             "disconnect": "Shkëputu",
             "microsoftSignIn": "Hyni me Microsoft",
             "signedIn": "Aktualisht po shihen veprimtari kalendari për {{email}}. Klikoni mbi butonin Shkëputu më poshtë që të ndalni parjen e veprimtarive të kalendarit.",

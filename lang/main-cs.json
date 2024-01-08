@@ -13,7 +13,7 @@
         "failedToAdd": "Nepodařilo se přidat účastníky",
         "googleEmail": "Email Google",
         "inviteMoreHeader": "Jste v setkání sám/sama",
-        "inviteMoreMailSubject": "Přidejte se k setkání {{appName}}",
+        "inviteMoreMailSubject": "Přidejte se k setkání Gedui Vox",
         "inviteMorePrompt": "Pozvat další lidi",
         "linkCopied": "Odkaz se zkopíroval do schránky",
         "noResults": "Žádné odpovídající výsledky vyhledávání",
@@ -397,7 +397,7 @@
         "stopRecordingWarning": "Určitě chcete zastavit nahrávání?",
         "stopStreamingWarning": "Určitě chcete zastavit živý přenos?",
         "streamKey": "Klíč k živému přenosu",
-        "thankYou": "Děkujeme, že používáte {{appName}}!",
+        "thankYou": "Děkujeme, že používáte Gedui Vox!",
         "token": "token",
         "tokenAuthFailed": "Bohužel nemáte povoleno se k tomuto volání připojit.",
         "tokenAuthFailedTitle": "Ověření selhalo",
@@ -942,7 +942,7 @@
     "settings": {
         "buttonLabel": "",
         "calendar": {
-            "about": "Integrace kalendáře {{appName}} slouží k bezpečnému přístupu k vašemu kalendáři, takže dovede zjistit nadcházející události.",
+            "about": "Integrace kalendáře Gedui Vox slouží k bezpečnému přístupu k vašemu kalendáři, takže dovede zjistit nadcházející události.",
             "disconnect": "Odpojit",
             "microsoftSignIn": "Přihlásit se účtem Microsoft",
             "signedIn": "Právě se přistupuje ke kalendářním událostem pro {{email}}. Abyste zastavili přístup k událostem, klikněte na tlačítko Odpojit",

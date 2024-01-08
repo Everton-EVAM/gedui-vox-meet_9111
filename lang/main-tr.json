@@ -13,7 +13,7 @@
         "failedToAdd": "Kişi eklenemedi",
         "googleEmail": "Google Email",
         "inviteMoreHeader": "Toplantıdaki tek kişisiniz",
-        "inviteMoreMailSubject": "{{appName}} toplantısına katıl",
+        "inviteMoreMailSubject": "Gedui Vox toplantısına katıl",
         "inviteMorePrompt": "Daha fazla kişi davet et",
         "linkCopied": "Bağlantı panoya kopyalandı",
         "noResults": "Eşleşen sonuç bulunamadı",
@@ -399,7 +399,7 @@
         "stopRecordingWarning": "Kaydı durdurmak istediğinizden emin misiniz?",
         "stopStreamingWarning": "Canlı akışı durdurmak istediğinizden emin misiniz?",
         "streamKey": "Canlı akış anahtarı",
-        "thankYou": "{{appName}} kullandığınız için teşekkürler!",
+        "thankYou": "Gedui Vox kullandığınız için teşekkürler!",
         "token": "token",
         "tokenAuthFailed": "Üzgünüz, bu görüşmeye katılmanıza izin verilmiyor.",
         "tokenAuthFailedTitle": "Kimlik doğrulama başarısız",
@@ -949,7 +949,7 @@
     "settings": {
         "buttonLabel": "Ayarlar",
         "calendar": {
-            "about": "{{appName}} takvim entegrasyonu, yaklaşan etkinlikleri okuyabilmesi için takviminize güvenli bir şekilde erişmek için kullanılır.",
+            "about": "Gedui Vox takvim entegrasyonu, yaklaşan etkinlikleri okuyabilmesi için takviminize güvenli bir şekilde erişmek için kullanılır.",
             "disconnect": "Bağlantıyı Kes",
             "microsoftSignIn": "Microsoft ile oturum aç",
             "signedIn": "Şu anda {{email}} için takvim etkinliklerine erişiliyor. Takvim etkinliklerine erişmeyi durdurmak için aşağıdaki Bağlantıyı Kes butonuna tıklayın.",

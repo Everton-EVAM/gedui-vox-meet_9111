@@ -14,7 +14,7 @@
         "footerText": "ダイヤルアウトが無効です。",
         "googleEmail": "Gmail",
         "inviteMoreHeader": "このミーティングにいるのは、あなただけです",
-        "inviteMoreMailSubject": "{{appName}} のミーティングに参加してください",
+        "inviteMoreMailSubject": "Gedui Vox のミーティングに参加してください",
         "inviteMorePrompt": "もっと多くの人を招待しましょう",
         "linkCopied": "クリップボードにリンクをコピーしました",
         "noResults": "一致する検索結果がありません",
@@ -374,7 +374,7 @@
         "stopRecordingWarning": "録画を停止してもよろしいですか?",
         "stopStreamingWarning": "ライブ配信を停止してもよろしいですか?",
         "streamKey": "ストリームキー",
-        "thankYou": "{{appName}} を使用していただきありがとうございます!",
+        "thankYou": "Gedui Vox を使用していただきありがとうございます!",
         "token": "トークン",
         "tokenAuthFailed": "申し訳ありませんが、この通話に参加することはできません。",
         "tokenAuthFailedTitle": "認証に失敗しました",
@@ -878,7 +878,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "{{appName}} カレンダーとの統合機能は、今後のイベントを読み取ることができるようカレンダーに安全にアクセスするために使用されます。",
+            "about": "Gedui Vox カレンダーとの統合機能は、今後のイベントを読み取ることができるようカレンダーに安全にアクセスするために使用されます。",
             "disconnect": "切断",
             "microsoftSignIn": "Microsoft アカウントでサインイン",
             "signedIn": "現在、{{email}} のカレンダーのイベントにアクセス中です。下の切断ボタンをクリックすると、カレンダーのイベントにアクセスすることを停止します。",

@@ -254,7 +254,7 @@
         "stopRecordingWarning": "Haluatko varmasti lopettaa nauhoituksen?",
         "stopStreamingWarning": "Haluatko varmasti lopettaa suoratoiston?",
         "streamKey": "Suoratoistokoodi",
-        "thankYou": "Kiitos sovelluksen {{appName}} käytöstä!",
+        "thankYou": "Kiitos sovelluksen Gedui Vox käytöstä!",
         "token": "koodi",
         "tokenAuthFailed": "Valitettavasti et saa osallistua tähän puheluun.",
         "tokenAuthFailedTitle": "Todennus epäonnistui",
@@ -427,7 +427,7 @@
         "somebody": "Joku",
         "startSilentDescription": "",
         "startSilentTitle": "",
-        "suboptimalExperienceDescription": "Valitettavasti {{appName}} ei taida toimia kovin hyvin täällä. Yritämme löytää parannuskeinoja, mutta sillä välin kannattaa käyttää jotain <a href='{{recommendedBrowserPageLink}}' target='_blank'>täysin tuettua selainta</a>.",
+        "suboptimalExperienceDescription": "Valitettavasti Gedui Vox ei taida toimia kovin hyvin täällä. Yritämme löytää parannuskeinoja, mutta sillä välin kannattaa käyttää jotain <a href='{{recommendedBrowserPageLink}}' target='_blank'>täysin tuettua selainta</a>.",
         "suboptimalExperienceTitle": "Selainvaroitus",
         "unmute": "Poista mykistys"
     },
@@ -490,7 +490,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "{{appName}} tarkistaa tulevat tapahtumat kalenteristasi turvallisesti kalenteri-integrointitoimintonsa avulla.",
+            "about": "Gedui Vox tarkistaa tulevat tapahtumat kalenteristasi turvallisesti kalenteri-integrointitoimintonsa avulla.",
             "disconnect": "Katkaise yhteys",
             "microsoftSignIn": "Kirjaudu Microsoftilla",
             "signedIn": "Tarkastellaan käyttäjän {{email}} kalenteritapahtumia. Estä tarkastelu napsauttamalla Katkaise yhteys -painiketta.",

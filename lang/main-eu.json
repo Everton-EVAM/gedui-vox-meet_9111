@@ -14,7 +14,7 @@
         "footerText": "Markatzea desgaituta dago.",
         "googleEmail": "Google Email",
         "inviteMoreHeader": "Bilerako partaide bakarra zara",
-        "inviteMoreMailSubject": "Sartu {{appName}} bileran",
+        "inviteMoreMailSubject": "Sartu Gedui Vox bileran",
         "inviteMorePrompt": "Gonbidatu jende gehiago",
         "linkCopied": "Esteka ondo kopiatu da arbelera",
         "noResults": "Ez dago bat datorren bilaketa-emaitzarik",
@@ -322,7 +322,7 @@
         "stopRecordingWarning": "Ziur grabatzeari utzi nahi diozula?",
         "stopStreamingWarning": "Ziur zuzeneko erreprodukzioa gelditu nahi duzula?",
         "streamKey": "Zuzeneko erreprodukzioaren giltza",
-        "thankYou": "Eskerrik asko {{appName}} erabiltzeagatik!",
+        "thankYou": "Eskerrik asko Gedui Vox erabiltzeagatik!",
         "token": "tokena",
         "tokenAuthFailed": "Ez duzu dei honetara elkartzeko baimenik.",
         "tokenAuthFailedTitle": "Autentifikazioak huts egin du",
@@ -711,7 +711,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "Egutegiaren integrazioa {{appName}} zure egutegian modu seguruan sartzeko erabiltzen da datozen gertaerak irakurri ahal izateko.",
+            "about": "Egutegiaren integrazioa Gedui Vox zure egutegian modu seguruan sartzeko erabiltzen da datozen gertaerak irakurri ahal izateko.",
             "disconnect": "Deskonektatu",
             "microsoftSignIn": "Saioa hasi Microsoftekin",
             "signedIn": "Une honetan {{email}} arekin egutegiko gertaeretara sartzen ari zara. Egin klik beheko botoia deskonektatzeko.",

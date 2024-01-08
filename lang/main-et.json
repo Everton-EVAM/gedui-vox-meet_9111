@@ -278,7 +278,7 @@
         "stopRecordingWarning": "Oled kindel, et soovid salvestamist lõpetada?",
         "stopStreamingWarning": "Oled kindel, et soovid otseülekannet lõpetada?",
         "streamKey": "Otseülekande võti",
-        "thankYou": "Aitäh, et kasutasid rakendust {{appName}}!",
+        "thankYou": "Aitäh, et kasutasid rakendust Gedui Vox!",
         "token": "token",
         "tokenAuthFailed": "Kahjuks ei ole kõnega ühinemine lubatud.",
         "tokenAuthFailedTitle": "Autentimine ebaõnnestus",
@@ -461,7 +461,7 @@
         "somebody": "Keegi",
         "startSilentDescription": "Mikrofoni kasutamiseks ühine kõnega uuesti",
         "startSilentTitle": "Ühinesid ilma mikrofonita!",
-        "suboptimalExperienceDescription": "Rakenduse {{appName}}  parima kvaliteedi tagamiseks palun kasuta <a href='{{recommendedBrowserPageLink}}' target='_blank'>ühte nendest veebilehitsejatest</a>.",
+        "suboptimalExperienceDescription": "Rakenduse Gedui Vox  parima kvaliteedi tagamiseks palun kasuta <a href='{{recommendedBrowserPageLink}}' target='_blank'>ühte nendest veebilehitsejatest</a>.",
         "suboptimalExperienceTitle": "Veebilehitseja hoiatus",
         "unmute": "Lülita mikrofon sisse"
     },
@@ -522,7 +522,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "Rakenduse {{appName}} kalender kasutab turvalist ühendust ning näeb eesolevaid kõnesid.",
+            "about": "Rakenduse Gedui Vox kalender kasutab turvalist ühendust ning näeb eesolevaid kõnesid.",
             "disconnect": "Ühenda lahti",
             "microsoftSignIn": "Logi sisse Microsoft’i kontoga",
             "signedIn": "Hetkel nähakse kasutaja {{email}} kalendrit. Kalendrikutsete peitmiseks vajuta “Ühenda lahti” nupule.",

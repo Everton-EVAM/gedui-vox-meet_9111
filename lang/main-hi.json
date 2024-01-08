@@ -13,7 +13,7 @@
         "footerText": "बाहर डालय करना प्रतिबंधित है",
         "googleEmail": "गूगल ई-मेल",
         "inviteMoreHeader": "मीटिंग मे केवल आप ही हैं",
-        "inviteMoreMailSubject": "मीटिंग में शामिल हो {{appName}} ",
+        "inviteMoreMailSubject": "मीटिंग में शामिल हो Gedui Vox ",
         "inviteMorePrompt": "और लोगों को आमंत्रित करें",
         "linkCopied": "लिंक कि प्रतिलिपि बनायी गयी",
         "loading": "लोगों को उनके मोबाइल नंबर से खोजा जा रहा हैं ",
@@ -317,7 +317,7 @@
         "stopRecordingWarning": "क्या आप वाकई रिकॉर्डिंग को रोकना चाहते हैं?",
         "stopStreamingWarning": "क्या आप वाकई लाइव स्ट्रीमिंग को रोकना चाहते हैं?",
         "streamKey": "Live stream key",
-        "thankYou": " {{appName}} का उपयोग करने के लिए धन्यवाद!",
+        "thankYou": " Gedui Vox का उपयोग करने के लिए धन्यवाद!",
         "token": "टोकन",
         "tokenAuthFailed": "क्षमा करें, आपको इस कॉल में शामिल होने की अनुमति नहीं है।",
         "tokenAuthFailedTitle": "प्रमाणीकरण विफल",
@@ -682,7 +682,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "The {{appName}} calendar integration is used to securely access your calendar so it can read upcoming events.",
+            "about": "The Gedui Vox calendar integration is used to securely access your calendar so it can read upcoming events.",
             "disconnect": "Disconnect",
             "microsoftSignIn": "Sign in with Microsoft",
             "signedIn": "Currently accessing calendar events for {{email}}. Click the Disconnect button below to stop accessing calendar events.",

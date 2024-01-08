@@ -279,7 +279,7 @@
         "stopRecordingWarning": "Ertu viss um að þú viljir stöðva þessa upptöku?",
         "stopStreamingWarning": "Ertu viss um að þú viljir stöðva þetta beina streymi?",
         "streamKey": "Lykill fyrir beint streymi",
-        "thankYou": "Takk fyrir að nota {{appName}}!",
+        "thankYou": "Takk fyrir að nota Gedui Vox!",
         "token": "teikn",
         "tokenAuthFailed": "Því miður, þú hefur ekki heimild til að taka þátt í þessu samtali.",
         "tokenAuthFailedTitle": "Auðkenning mistókst",
@@ -528,7 +528,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "Samþætting dagatals við {{appName}} er notuð til að tryggja öruggan aðgang að dagatalinu þínu þannig að hægt sé að lesa fyrirliggjandi viðburði.",
+            "about": "Samþætting dagatals við Gedui Vox er notuð til að tryggja öruggan aðgang að dagatalinu þínu þannig að hægt sé að lesa fyrirliggjandi viðburði.",
             "disconnect": "Aftengjast",
             "microsoftSignIn": "Skrá inn með Microsoft",
             "signedIn": "Er núna með aðgang að atburðum í dagatali fyrir {{email}}. Smelltu á 'Aftengjast' til að hætta að ná í atburði í dagatali.",

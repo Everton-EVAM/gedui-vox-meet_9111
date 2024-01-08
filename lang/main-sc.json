@@ -13,7 +13,7 @@
         "failedToAdd": "Faddina in s'agiunta de partetzipantes",
         "googleEmail": "Posta de Google",
         "inviteMoreHeader": "Ses a sa sola in custa riunione",
-        "inviteMoreMailSubject": "Intra a sa riunione de {{appName}}",
+        "inviteMoreMailSubject": "Intra a sa riunione de Gedui Vox",
         "inviteMorePrompt": "Invita àtera gente",
         "linkCopied": "Ligòngiu copiadu in punta de billete",
         "noResults": "Non cointzidet nissunu resultadu",
@@ -399,7 +399,7 @@
         "stopRecordingWarning": "Seguru chi boles firmare sa registratzione?",
         "stopStreamingWarning": "Seguru chi boles firmare sa trasmissione in direta?",
         "streamKey": "Crae de sa trasmissione in direta",
-        "thankYou": "Gràtzias de àere impreadu {{appName}}.",
+        "thankYou": "Gràtzias de àere impreadu Gedui Vox.",
         "token": "còdighe",
         "tokenAuthFailed": "No tenes permissu pro intrare in custa mutida.",
         "tokenAuthFailedTitle": "Faddina in s'autenticatzione",
@@ -951,7 +951,7 @@
     "settings": {
         "buttonLabel": "Cunfiguratzione",
         "calendar": {
-            "about": "S'integratzione cun su calendàriu {{appName}} est impreada pro atzèdere in manera segura a su calendàriu tuo pro chi potzat lèghere is eventos imbenientes.",
+            "about": "S'integratzione cun su calendàriu Gedui Vox est impreada pro atzèdere in manera segura a su calendàriu tuo pro chi potzat lèghere is eventos imbenientes.",
             "disconnect": "Disconnete",
             "microsoftSignIn": "Autèntica·ti cun Microsoft",
             "signedIn": "Ses atzedende a is eventos de calendàriu pro {{email}}. Incarca su butone Disconnete in bàsciu pro firmare s'atzessu a eventos de calendàriu.",

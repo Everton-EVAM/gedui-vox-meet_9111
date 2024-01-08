@@ -13,7 +13,7 @@
         "failedToAdd": "No s'han pogut afegir-hi participants",
         "googleEmail": "Correu de Google",
         "inviteMoreHeader": "Sou l'única persona en la reunió",
-        "inviteMoreMailSubject": "Entra a la reunió {{appName}}",
+        "inviteMoreMailSubject": "Entra a la reunió Gedui Vox",
         "inviteMorePrompt": "Convida a més persones",
         "linkCopied": "L'enllaç s'ha copiat al porta-retalls",
         "noResults": "No s'ha trobat cap resultat coincident",
@@ -399,7 +399,7 @@
         "stopRecordingWarning": "Esteu segur de voler aturar l'enregistrament?",
         "stopStreamingWarning": "Esteu segur de voler aturar la transmissió en directe?",
         "streamKey": "Clau de transmissió en directe",
-        "thankYou": "Gràcies per usar {{appName}}!",
+        "thankYou": "Gràcies per usar Gedui Vox!",
         "token": "identificador",
         "tokenAuthFailed": "No esteu autoritzat a unir-vos a aquesta trucada.",
         "tokenAuthFailedTitle": "L'autenticació ha fallat",
@@ -951,7 +951,7 @@
     "settings": {
         "buttonLabel": "Paràmetres",
         "calendar": {
-            "about": "La integració de l'agenda {{appName}} s'usa per a accedir de forma segura a la vostra agenda perquè pugui llegir els esdeveniments pròxims.",
+            "about": "La integració de l'agenda Gedui Vox s'usa per a accedir de forma segura a la vostra agenda perquè pugui llegir els esdeveniments pròxims.",
             "disconnect": "Desconnectat",
             "microsoftSignIn": "Inicia sessió amb Microsoft",
             "signedIn": "Ara mateix s'està accedint els esdeveniments de l'agenda de {{email}}. Feu clic al botó «Desconnecta» per a deixar d'accedir als esdeveniments de l'agenda.",

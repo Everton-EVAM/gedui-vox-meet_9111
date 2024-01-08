@@ -14,7 +14,7 @@
         "footerText": "Asuḍen yensa.",
         "googleEmail": "Imayl n Google",
         "inviteMoreHeader": "Alla kečč i / kem i yellan deg temlilit",
-        "inviteMoreMailSubject": "Ddu ɣer temlilit {{appName}}",
+        "inviteMoreMailSubject": "Ddu ɣer temlilit Gedui Vox",
         "inviteMorePrompt": "Nced-d imdanen-nniḍen",
         "linkCopied": "Aseɣwen ittwanɣel ɣer \"Ɣef afus\"",
         "noResults": "Ulac igmaḍ n unadi yemṣadan",
@@ -350,7 +350,7 @@
         "stopRecordingWarning": "S tidet tebɣiḍ ad tesḥebseḍ asekles?",
         "stopStreamingWarning": "S tidet tebɣiḍ ad tesḥebseḍ asuddem usrid?",
         "streamKey": "Tasarut n usuddem usrid",
-        "thankYou": "Tanemmirt ɣef useqdec n {{appName}}!",
+        "thankYou": "Tanemmirt ɣef useqdec n Gedui Vox!",
         "token": "ajuṭu",
         "tokenAuthFailed": "Suref-aɣ, ur tesɛiḍ ara tisirag ad tettekkiḍ deg usiwel-a.",
         "tokenAuthFailedTitle": "Asesteb ur yeddi ara",
@@ -808,7 +808,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "Amsidef n uwitay {{appName}} yettuseqdac i unekcum aɣelsan ɣer uwitay-inek·inem i wakken ad d-iɣer ineḍruyen i d-iteddun.",
+            "about": "Amsidef n uwitay Gedui Vox yettuseqdac i unekcum aɣelsan ɣer uwitay-inek·inem i wakken ad d-iɣer ineḍruyen i d-iteddun.",
             "disconnect": "Yeffeɣ",
             "microsoftSignIn": "Qqen s Microsoft",
             "signedIn": "Anekcum amiran ɣer yineḍruyen n uwitay i {{email}}. Sit ɣef tqeffalt ffeɣ i useḥbes n unekcum ɣer yineḍruyen n uwitay.",

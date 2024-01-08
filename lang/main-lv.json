@@ -272,7 +272,7 @@
         "stopRecordingWarning": "Tiešām vēlaties beigt ierakstu?",
         "stopStreamingWarning": "Tiešām vēlaties beigt tiešraidi?",
         "streamKey": "Tiešraides atslēga",
-        "thankYou": "Super, ka izmantojat {{appName}}!",
+        "thankYou": "Super, ka izmantojat Gedui Vox!",
         "token": "tokens/marķieris",
         "tokenAuthFailed": "Atvainojiet, jums nav atļauts pievienoties šai sesijai (sapulces telpai).",
         "tokenAuthFailedTitle": "Autentifikācijas kļūme",
@@ -452,7 +452,7 @@
         "startSilentDescription": "Lai ieslēgtu skaņu, pieslēdzieties sapulcei par jaunu",
         "startSilentTitle": "Jūs esiet nedzirdams!",
         "suboptimalBrowserWarning": "Diemžēl jūsu pārlūks pilnībā neatbalsta šo virtuālo sapulču sistēmu. Pie tā tiek strādāts, bet šobrīd tiek ieteikts izmantot <a href='{{recommendedBrowserPageLink}}' target='_blank'> šos pārlūkus</a>.",
-        "suboptimalExperienceTitle": "Diemžēl jūsu pārlūks, iespējams, var pienācīgi nestrādāt ar {{appName}}. Pie tā tiek strādāts, bet šobrīd tiek ieteikts izmantot kādu no <a href='{{recommendedBrowserPageLink}} 'target='_blank'>pilnībā atbalstītajiem pārlūkiem</a>.",
+        "suboptimalExperienceTitle": "Diemžēl jūsu pārlūks, iespējams, var pienācīgi nestrādāt ar Gedui Vox. Pie tā tiek strādāts, bet šobrīd tiek ieteikts izmantot kādu no <a href='{{recommendedBrowserPageLink}} 'target='_blank'>pilnībā atbalstītajiem pārlūkiem</a>.",
         "unmute": "Ieslēgt skaņu/mikrofonu"
     },
     "passwordDigitsOnly": "Līdz {{number}} cipariem",
@@ -512,7 +512,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "Integrācija ar kalendāru {{appName}} tiek izmantota, lai droši piekļūtu jūsu kalendāram un sinhronizētu plānotos pasākumus.",
+            "about": "Integrācija ar kalendāru Gedui Vox tiek izmantota, lai droši piekļūtu jūsu kalendāram un sinhronizētu plānotos pasākumus.",
             "disconnect": "Atslēgties",
             "microsoftSignIn": "Ierakstīties ar Microsoft kontu",
             "signedIn": "Pašreiz ir piekļuve e-pasta adreses {{email}} kalendāra notikumiem. Noklikšķiniet uz pogas |Atslēgt|, lai izslēgtu piekļuvi šiem kalendāra pasākumiem.",

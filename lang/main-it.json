@@ -13,7 +13,7 @@
         "failedToAdd": "L'aggiunta di nuovi partecipanti è fallita",
         "googleEmail": "Email Google",
         "inviteMoreHeader": "Sei l'unico presente nella riunione",
-        "inviteMoreMailSubject": "Unisciti alla riunione {{appName}}",
+        "inviteMoreMailSubject": "Unisciti alla riunione Gedui Vox",
         "inviteMorePrompt": "Invita altri partecipanti",
         "linkCopied": "Collegamento copiato negli appunti",
         "noResults": "Nessun risultato corrispondente",
@@ -399,7 +399,7 @@
         "stopRecordingWarning": "Sei sicuro di voler interrompere la registrazione?",
         "stopStreamingWarning": "Sei sicuro di voler interrompere la diretta?",
         "streamKey": "Chiave per trasmissione in diretta",
-        "thankYou": "Grazie per aver usato {{appName}}!",
+        "thankYou": "Grazie per aver usato Gedui Vox!",
         "token": "token",
         "tokenAuthFailed": "Ci dispiace ma non sei autorizzato a partecipare a questa chiamata.",
         "tokenAuthFailedTitle": "Autenticazione fallita",
@@ -949,7 +949,7 @@
     "settings": {
         "buttonLabel": "Impostazioni",
         "calendar": {
-            "about": "L’integrazione del calendario con {{appName}} è usata per accedere in sicurezza al proprio calendario e poter leggere i prossimi appuntamenti ",
+            "about": "L’integrazione del calendario con Gedui Vox è usata per accedere in sicurezza al proprio calendario e poter leggere i prossimi appuntamenti ",
             "disconnect": "Disconnetti",
             "microsoftSignIn": "Connettiti con un account Microsoft",
             "signedIn": "Sto accedendo agli eventi del calendario per {{email}}. Fai click su «Disconnetti» per interrompere l’accesso agli eventi del calendario.",

@@ -14,7 +14,7 @@
         "footerText": "Sonadas ext. desactivadas.",
         "googleEmail": "Google Email",
         "inviteMoreHeader": "Sètz l’unica persona de la conferéncia",
-        "inviteMoreMailSubject": "Rejónher la conferéncia {{appName}}",
+        "inviteMoreMailSubject": "Rejónher la conferéncia Gedui Vox",
         "inviteMorePrompt": "Convidar mai de monde",
         "linkCopied": "Ligam copiat al quichapapièrs",
         "noResults": "Pas cap de resultat trobat",
@@ -373,7 +373,7 @@
         "stopRecordingWarning": "Sètz segur que volètz arrestar l'enregistrament?",
         "stopStreamingWarning": "Volètz vertadièrament arrestar lo dirècte ?",
         "streamKey": "Clau del dirècte",
-        "thankYou": "Mercé d'aver utilizat {{appName}} !",
+        "thankYou": "Mercé d'aver utilizat Gedui Vox !",
         "token": "geton",
         "tokenAuthFailed": "O planhèm, sètz pas autorizat a rejónher l'apèl.",
         "tokenAuthFailedTitle": "Fracàs de l'autentificacion",
@@ -861,7 +861,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "L’integracion de {{appName}} amb vòstre calendièr permet d’accedir d’un biais segur als eveniments venents.",
+            "about": "L’integracion de Gedui Vox amb vòstre calendièr permet d’accedir d’un biais segur als eveniments venents.",
             "disconnect": "Desconnectar",
             "microsoftSignIn": "Se connectar amb Microsoft",
             "signedIn": "Accès als eveniments del calendièr {{email}}. Clicatz lo boton Se desconnectar çai-jos per arrestar l’accès als eveniments del calendièr.",

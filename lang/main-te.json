@@ -13,7 +13,7 @@
         "footerText": "బయటకు డయల్ చేయడం అచేతనం చేయబడింది.",
         "googleEmail": "గూగుల్ ఈమెయిలు",
         "inviteMoreHeader": "ఈ సమావేశంలో మీరొక్కరే ఉన్నారు",
-        "inviteMoreMailSubject": "{{appName}} సమావేశంలో చేరండి",
+        "inviteMoreMailSubject": "Gedui Vox సమావేశంలో చేరండి",
         "inviteMorePrompt": "మరికొందరిని ఆహ్వానించండి",
         "linkCopied": "లంకె క్లిప్‌బోర్డుకి కాపీ అయ్యింది",
         "loading": "ప్రజల కోసం, ఫోను నెంబర్ల కోసం వెతుకుతున్నాం",
@@ -318,7 +318,7 @@
         "stopRecordingWarning": "మీరు నిజంగానే రికార్డింగు ఆపివేయాలనుకుంటున్నారా?",
         "stopStreamingWarning": "మీరు నిజంగానే లైవ్ స్ట్రీమును ఆపివేయాలనుకుంటున్నారా?",
         "streamKey": "Live stream key",
-        "thankYou": "{{appName}} వాడుతున్నందుకు కృతజ్ఞతలు!",
+        "thankYou": "Gedui Vox వాడుతున్నందుకు కృతజ్ఞతలు!",
         "token": "token",
         "tokenAuthFailed": "క్షమించండి, మీరు ఈ కాల్‌లో చేరలేరు.",
         "tokenAuthFailedTitle": "అధీకరణ విఫలమైంది",
@@ -698,7 +698,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "The {{appName}} calendar integration is used to securely access your calendar so it can read upcoming events.",
+            "about": "The Gedui Vox calendar integration is used to securely access your calendar so it can read upcoming events.",
             "disconnect": "Disconnect",
             "microsoftSignIn": "Sign in with Microsoft",
             "signedIn": "Currently accessing calendar events for {{email}}. Click the Disconnect button below to stop accessing calendar events.",

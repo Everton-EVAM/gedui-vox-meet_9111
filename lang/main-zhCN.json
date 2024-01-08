@@ -16,7 +16,7 @@
         "failedToAdd": "添加参会者失败",
         "googleEmail": "Google邮箱",
         "inviteMoreHeader": "当前会议中仅有你一人",
-        "inviteMoreMailSubject": "加入{{appName}}会议",
+        "inviteMoreMailSubject": "加入Gedui Vox会议",
         "inviteMorePrompt": "邀请更多人",
         "linkCopied": "链接已复制到剪贴板",
         "noResults": "没有相匹配的搜索结果",
@@ -438,7 +438,7 @@
         "stopRecordingWarning": "确定要停止录制吗",
         "stopStreamingWarning": "确定要停止直播吗？",
         "streamKey": "直播密钥",
-        "thankYou": "感谢你使用{{appName}}！",
+        "thankYou": "感谢你使用Gedui Vox！",
         "token": "token",
         "tokenAuthFailed": "抱歉，你无法加入此通话。",
         "tokenAuthFailedReason": {
@@ -1031,7 +1031,7 @@
         "audio": "音频",
         "buttonLabel": "设置",
         "calendar": {
-            "about": "{{appName}}日历集成用于安全访问你的日历，以读取即将到来的活动。",
+            "about": "Gedui Vox日历集成用于安全访问你的日历，以读取即将到来的活动。",
             "disconnect": "断开连接",
             "microsoftSignIn": "使用 Microsoft 登录",
             "signedIn": "目前正在读取{{email}}的日历事件，点击下面的断开连接可以停止读取日历事件。",

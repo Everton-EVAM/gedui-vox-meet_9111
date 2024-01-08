@@ -13,7 +13,7 @@
         "footerText": "Odchádzajúce hovory sú zablokované.",
         "googleEmail": "Google email",
         "inviteMoreHeader": "Ste sám v tejto konferencii",
-        "inviteMoreMailSubject": "Pozvánka do konferencie {{appName}}",
+        "inviteMoreMailSubject": "Pozvánka do konferencie Gedui Vox",
         "inviteMorePrompt": "Pozvať ľudí",
         "linkCopied": "Odkaz skopírovaný do schránky",
         "loading": "Hľadanie ľudí a telefónnych čísiel",
@@ -303,7 +303,7 @@
         "stopRecordingWarning": "Chcete zastaviť záznam?",
         "stopStreamingWarning": "Chcete zastaviť priamy prenos?",
         "streamKey": "Kľúč živého vysielania",
-        "thankYou": "Ďakujeme za používanie {{appName}}!",
+        "thankYou": "Ďakujeme za používanie Gedui Vox!",
         "token": "token",
         "tokenAuthFailed": "Prepáčte, nie ste oprávnený zúčastniť tejto sa konferencie.",
         "tokenAuthFailedTitle": "Overenie zlyhalo",
@@ -640,7 +640,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "Používa sa kalendárová integrácia {{appName}} pre zabezpečený prístup ku vašemu kalendáru.",
+            "about": "Používa sa kalendárová integrácia Gedui Vox pre zabezpečený prístup ku vašemu kalendáru.",
             "disconnect": "Odpojený",
             "microsoftSignIn": "Prihlásiť pomocou Microsoft",
             "signedIn": "Momentálne sa pristupuje na kalendárové udalosti pre {{email}}. Stlačte tlačidlo „Odpojiť“ pre prerušenie spojenia ku kalendárovým udalostiam.",

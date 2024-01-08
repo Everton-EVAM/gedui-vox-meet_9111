@@ -14,7 +14,7 @@
         "footerText": "Uitgaande oproepen zijn uitgeschakeld.",
         "googleEmail": "Google e-mail",
         "inviteMoreHeader": "U bent de enige in de vergadering",
-        "inviteMoreMailSubject": "Deelnemen aan {{appName}}-vergadering",
+        "inviteMoreMailSubject": "Deelnemen aan Gedui Vox-vergadering",
         "inviteMorePrompt": "Nodig meer personen uit",
         "linkCopied": "Link gekopieerd naar klembord",
         "noResults": "Geen resultaten die overeenkomen met de zoekopdracht",
@@ -346,7 +346,7 @@
         "stopRecordingWarning": "Weet u zeker dat u de opname wilt stoppen?",
         "stopStreamingWarning": "Weet u zeker dat u de livestream wilt stoppen?",
         "streamKey": "Sleutel voor livestream",
-        "thankYou": "Bedankt voor het gebruik van {{appName}}.",
+        "thankYou": "Bedankt voor het gebruik van Gedui Vox.",
         "token": "token",
         "tokenAuthFailed": "Sorry, u bent niet toegestaan om deel te nemen aan dit gesprek.",
         "tokenAuthFailedTitle": "Authenticering mislukt",
@@ -793,7 +793,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "De agenda-integratie van {{appName}} wordt gebruikt voor een veilige toegang tot uw agenda, zodat het aankomende afspraken kan uitlezen.",
+            "about": "De agenda-integratie van Gedui Vox wordt gebruikt voor een veilige toegang tot uw agenda, zodat het aankomende afspraken kan uitlezen.",
             "disconnect": "Verbinding verbreken",
             "microsoftSignIn": "Aanmelden met Microsoft",
             "signedIn": "Agenda-afspraken voor {{email}} worden uitgelezen. Klik op de knop 'Verbinding verbreken' hieronder om de toegang tot agenda-afspraken te stoppen.",

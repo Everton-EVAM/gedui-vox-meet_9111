@@ -13,7 +13,7 @@
         "failedToAdd": "Neuspjelo dodavanje sudionika",
         "googleEmail": "Google e-pošta",
         "inviteMoreHeader": "Na sastanku si samo ti",
-        "inviteMoreMailSubject": "Pridruži se sastanku {{appName}}",
+        "inviteMoreMailSubject": "Pridruži se sastanku Gedui Vox",
         "inviteMorePrompt": "Pozovi još osoba",
         "linkCopied": "Poveznica kopirana u međuspremnik",
         "noResults": "Nema odgovarajućih rezultata pretrage",
@@ -399,7 +399,7 @@
         "stopRecordingWarning": "Stvarno želiš prekinuti snimanje?",
         "stopStreamingWarning": "Stvarno želiš prekinuti prijenos uživo?",
         "streamKey": "Ključ prijenosa uživo",
-        "thankYou": "Hvala što koristiš {{appName}}!",
+        "thankYou": "Hvala što koristiš Gedui Vox!",
         "token": "token",
         "tokenAuthFailed": "Na žalost se ne smiješ pridružiti ovom pozivu.",
         "tokenAuthFailedTitle": "Autentifikacija neuspjela",
@@ -949,7 +949,7 @@
     "settings": {
         "buttonLabel": "Postavke",
         "calendar": {
-            "about": "Integracija {{appName}} kalendara koristi se za siguran pristup tvom kalendaru kako bi mogao čitati nadolazeće događaje.",
+            "about": "Integracija Gedui Vox kalendara koristi se za siguran pristup tvom kalendaru kako bi mogao čitati nadolazeće događaje.",
             "disconnect": "Odspoji",
             "microsoftSignIn": "Prijavi se s Microsoft računom",
             "signedIn": "Trenutačno se pristupa događajima u kalendaru za {{email}}. Pritisni gumb Odspoji za prekid pristupanja događajima u kalendaru.",
