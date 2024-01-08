@@ -365,4 +365,8 @@ body.welcome-page {
         margin: 16px 0 32px 0;
         text-align: $welcomePageHeaderTextAlign;
     }
+    .welcome-log-imagen {
+        min-width: 100px;
+        max-width: 100px;
+    }
 }

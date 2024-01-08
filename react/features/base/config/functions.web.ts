@@ -100,12 +100,12 @@ export function _setDeeplinkingDefaults(deeplinking: IDeeplinkingConfig) {
         ios = {} as IDeeplinkingMobileConfig
     } = deeplinking;
 
-    desktop.appName = desktop.appName || 'Jitsi Meet';
+    desktop.appName = desktop.appName || 'Gedui Vox';
 
-    ios.appName = ios.appName || 'Jitsi Meet';
-    ios.appScheme = ios.appScheme || 'org.jitsi.meet';
+    ios.appName = ios.appName || 'Gedui Vox';
+    ios.appScheme = ios.appScheme || 'https://gedui.com.br/';
     ios.downloadLink = ios.downloadLink
-        || 'https://itunes.apple.com/us/app/jitsi-meet/id1165103905';
+        || '';
     if (ios.dynamicLink) {
         ios.dynamicLink.apn = ios.dynamicLink.apn || 'org.jitsi.meet';
         ios.dynamicLink.appCode = ios.dynamicLink.appCode || 'w2atb';
@@ -113,7 +113,7 @@ export function _setDeeplinkingDefaults(deeplinking: IDeeplinkingConfig) {
         ios.dynamicLink.isi = ios.dynamicLink.isi || '1165103905';
     }
 
-    android.appName = android.appName || 'Jitsi Meet';
+    android.appName = android.appName || 'Gedui Vox';
     android.appScheme = android.appScheme || 'org.jitsi.meet';
     android.downloadLink = android.downloadLink
         || 'https://play.google.com/store/apps/details?id=org.jitsi.meet';

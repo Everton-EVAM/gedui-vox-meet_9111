@@ -1,6 +1,6 @@
-# <p align="center">Jitsi Meet</p>
+# <p align="center">Gedui Vox</p>
 
-Jitsi Meet is a set of Open Source projects which empower users to use and deploy
+Gedui Vox is a set of Open Source projects which empower users to use and deploy
 video conferencing platforms with state-of-the-art video quality and features.
 
 <hr />
@@ -11,7 +11,7 @@ video conferencing platforms with state-of-the-art video quality and features.
 
 <hr />
 
-Amongst others here are the main features Jitsi Meet offers:
+Amongst others here are the main features Gedui Vox offers:
 
 * Support for all current browsers
 * Mobile applications
@@ -25,9 +25,9 @@ Amongst others here are the main features Jitsi Meet offers:
 
 And many more!
 
-## Using Jitsi Meet
+<!-- ## Using Gedui Vox
 
-Using Jitsi Meet is straightforward, as it's browser based. Head over to [meet.jit.si](https://meet.jit.si) and give it a try. It's anonymous, scalable and free to use. All browsers are supported! 
+Using Gedui Vox is straightforward, as it's browser based. Head over to [meet.jit.si](https://meet.jit.si) and give it a try. It's anonymous, scalable and free to use. All browsers are supported! 
 
 Using mobile? No problem, you can either use your mobile web browser or our fully-featured
 mobile apps:
@@ -40,18 +40,18 @@ If you are feeling adventurous and want to get an early scoop of the features as
 developed you can also sign up for our open beta testing here:
 
 * [Android](https://play.google.com/apps/testing/org.jitsi.meet)
-* [iOS](https://testflight.apple.com/join/isy6ja7S)
+* [iOS](https://testflight.apple.com/join/isy6ja7S) -->
 
 ## Running your own instance
 
-If you'd like to run your own Jitsi Meet installation head over to the [handbook](https://jitsi.github.io/handbook/docs/devops-guide/) to get started.
+If you'd like to run your own Gedui Vox installation head over to the [handbook](https://jitsi.github.io/handbook/docs/devops-guide/) to get started.
 
 We provide Debian packages and a comprehensive Docker setup to make deployments as simple as possible.
 Advanced users also have the possibility of building all the components from source.
 
 You can check the latest releases [here](https://jitsi.github.io/handbook/docs/releases).
 
-## Jitsi as a Service
+## Gedui Vox as a Service
 
 If you like the branding capabilities of running your own instance but you'd like
 to avoid dealing with the complexity of monitoring, scaling and updates, JaaS might be
@@ -61,20 +61,20 @@ for you.
 
 ## Documentation
 
-All the Jitsi Meet documentation is available in [the handbook](https://jitsi.github.io/handbook/).
+All the Gedui Vox documentation is available in [the handbook](https://jitsi.github.io/handbook/).
 
 ## Security
 
-For a comprehensive description of all Jitsi Meet's security aspects, please check [this link](https://jitsi.org/security).
+For a comprehensive description of all Gedui Vox's security aspects, please check [this link](https://jitsi.org/security).
 
-For a detailed description of Jitsi Meet's End-to-End Encryption (E2EE) implementation,
+For a detailed description of Gedui Vox's End-to-End Encryption (E2EE) implementation,
 please check [this link](https://jitsi.org/e2ee-whitepaper/).
 
-For information on reporting security vulnerabilities in Jitsi Meet, see [SECURITY.md](./SECURITY.md).
+For information on reporting security vulnerabilities in Gedui Vox, see [SECURITY.md](./SECURITY.md).
 
 ## Contributing
 
-If you are looking to contribute to Jitsi Meet, first of all, thank you! Please
+If you are looking to contribute to Gedui Vox, first of all, thank you! Please
 see our [guidelines for contributing](CONTRIBUTING.md).
 
 <br />
