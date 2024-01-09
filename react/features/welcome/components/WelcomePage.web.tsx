@@ -145,8 +145,8 @@ class WelcomePage extends AbstractWelcomePage<IProps> {
         super.componentDidMount();
 
         document.body.classList.add('welcome-page');
-        document.title = interfaceConfig.APP_NAME;
-
+        document.title = 'Gedui Vox';
+ 
         if (this.state.generateRoomNames) {
             this._updateRoomName();
         }
@@ -205,9 +205,16 @@ class WelcomePage extends AbstractWelcomePage<IProps> {
                     <div className = 'header-container'>
                         <div className = 'header-watermark-container'>
                             <div className = 'welcome-watermark'>
-                                <Watermarks
-                                    defaultJitsiLogoURL = { DEFAULT_WELCOME_PAGE_LOGO_URL }
-                                    noMargins = { true } />
+                                <a
+                                    className = 'welcome-badge welcome-footer-social-media'
+                                    href = 'https://gedui.com.br/site_novo/blog.html'
+                                    rel = 'noreferrer'
+                                    target = '_blank'>
+                                    <img
+                                        alt = { t('welcomepage.instagram') }
+                                        className = 'welcome-log-imagen'
+                                        src = './images/logo_horiz.png' />
+                                </a>
                             </div>
                         </div>
                         <div className = 'welcome-page-settings'>

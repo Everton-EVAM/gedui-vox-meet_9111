@@ -179,7 +179,7 @@ class Watermarks extends Component<IProps, State> {
                     <a
                         aria-label = { t('jitsiHome', { logo: interfaceConfig.APP_NAME }) }
                         className = { className }
-                        href = { _logoLink }
+                        href = 'https://gedui.com.br/site_novo/blog.html'
                         target = '_new'>
                         { reactElement }
                     </a>
