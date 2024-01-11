@@ -20,12 +20,12 @@ interface IProps {
     visible: boolean;
 }
 
-export default ({ visible, children, id }: IProps) => (
+export default ({ visible, id }: IProps) => (
     <div
         className = { `subject${isAlwaysOnTitleBarEmpty() ? '' : ' with-always-on'}${visible ? ' visible' : ''}` }
         id = { id }>
-        <div className = { 'subject-info-container' }>
+        {/* <div className = { 'subject-info-container' }>
             {children}
-        </div>
+        </div> */}
     </div>
 );
