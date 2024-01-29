@@ -247,7 +247,7 @@ var config = {
 
     // DEPRECATED. Please use speakerStats.disableSearch instead.
     // Specifies whether there will be a search field in speaker stats or not
-    // disableSpeakerStatsSearch: false,
+    disableSpeakerStatsSearch: true,
 
     // DEPRECATED. Please use speakerStats.order .
     // Specifies whether participants in speaker stats should be ordered or not, and with what priority
@@ -314,30 +314,30 @@ var config = {
     // fileRecordingsEnabled: false,
 
     // Enable the dropbox integration.
-    // dropbox: {
-    //     appKey: '<APP_KEY>', // Specify your app key here.
-    //     // A URL to redirect the user to, after authenticating
-    //     // by default uses:
-    //     // 'https://jitsi-meet.example.com/static/oauth.html'
-    //     redirectURI:
-    //          'https://jitsi-meet.example.com/subfolder/static/oauth.html',
-    // },
+    dropbox: {
+        appKey: '<APP_KEY>', // Specify your app key here.
+        // A URL to redirect the user to, after authenticating
+        // by default uses:
+        // 'https://jitsi-meet.example.com/static/oauth.html'
+        redirectURI:
+             'https://jitsi-meet.example.com/subfolder/static/oauth.html',
+    },
 
-    // recordingService: {
-    //     // When integrations like dropbox are enabled only that will be shown,
-    //     // by enabling fileRecordingsServiceEnabled, we show both the integrations
-    //     // and the generic recording service (its configuration and storage type
-    //     // depends on jibri configuration)
-    //     enabled: false,
+    recordingService: {
+        // When integrations like dropbox are enabled only that will be shown,
+        // by enabling fileRecordingsServiceEnabled, we show both the integrations
+        // and the generic recording service (its configuration and storage type
+        // depends on jibri configuration)
+        enabled: true,
 
-    //     // Whether to show the possibility to share file recording with other people
-    //     // (e.g. meeting participants), based on the actual implementation
-    //     // on the backend.
-    //     sharingEnabled: false,
+        // Whether to show the possibility to share file recording with other people
+        // (e.g. meeting participants), based on the actual implementation
+        // on the backend.
+        sharingEnabled: true,
 
-    //     // Hide the warning that says we only store the recording for 24 hours.
-    //     hideStorageWarning: false,
-    // },
+        // Hide the warning that says we only store the recording for 24 hours.
+        hideStorageWarning: true,
+    },
 
     // DEPRECATED. Use recordingService.enabled instead.
     // fileRecordingsServiceEnabled: false,
@@ -345,16 +345,16 @@ var config = {
     // DEPRECATED. Use recordingService.sharingEnabled instead.
     // fileRecordingsServiceSharingEnabled: false,
 
-    // Local recording configuration.
+    // Local recording configuration.   
     localRecording: {
         // Whether to disable local recording or not.
         disable: false,
 
         // Whether to notify all participants when a participant is recording locally.
-        notifyAllParticipants: false,
+        notifyAllParticipants: true,
 
         // Whether to disable the self recording feature (only local participant streams).
-        disableSelfRecording: false,
+        disableSelfRecording: true,
     },
 
     // Customize the Live Streaming dialog. Can be modified for a non-YouTube provider.
@@ -646,7 +646,7 @@ var config = {
     // Configs for the lobby screen.
     lobby: {
         // If Lobby is enabled, it starts knocking automatically. Replaces `autoKnockLobby`.
-        autoKnock: false,
+        autoKnock: true,
         // Enables the lobby chat. Replaces `enableLobbyChat`.
         enableChat: true,
     },
@@ -1289,7 +1289,7 @@ var config = {
     // Mainly privacy related settings
 
     // Disables all invite functions from the app (share, invite, dial out...etc)
-    // disableInviteFunctions: true,
+    disableInviteFunctions: true,
 
     // Disables storing the room name to the recents list. When in an iframe this is ignored and
     // the room is never stored in the recents list.
@@ -1399,14 +1399,14 @@ var config = {
     // dynamicBrandingUrl: '',
 
     // Options related to the participants pane.
-    // participantsPane: {
-    //     // Hides the moderator settings tab.
-    //     hideModeratorSettingsTab: false,
-    //     // Hides the more actions button.
-    //     hideMoreActionsButton: false,
-    //     // Hides the mute all button.
-    //     hideMuteAllButton: false,
-    // },
+    participantsPane: {
+        // Hides the moderator settings tab.
+        hideModeratorSettingsTab: true,
+        // Hides the more actions button.
+        hideMoreActionsButton: true,
+        // Hides the mute all button.
+        hideMuteAllButton: true,
+    },
 
     // Options related to the breakout rooms feature.
     // breakoutRooms: {
