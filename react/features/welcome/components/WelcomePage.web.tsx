@@ -5,7 +5,6 @@ import { isMobileBrowser } from '../../base/environment/utils';
 import { translate, translateToHTML } from '../../base/i18n/functions';
 import Icon from '../../base/icons/components/Icon';
 import { IconWarning } from '../../base/icons/svg';
-import Watermarks from '../../base/react/components/web/Watermarks';
 import getUnsafeRoomText from '../../base/util/getUnsafeRoomText.web';
 import CalendarList from '../../calendar-sync/components/CalendarList.web';
 import RecentList from '../../recent-list/components/RecentList.web';
@@ -146,7 +145,7 @@ class WelcomePage extends AbstractWelcomePage<IProps> {
 
         document.body.classList.add('welcome-page');
         document.title = 'Gedui Vox';
- 
+
         if (this.state.generateRoomNames) {
             this._updateRoomName();
         }
@@ -189,7 +188,7 @@ class WelcomePage extends AbstractWelcomePage<IProps> {
      */
     render() {
         const { _moderatedRoomServiceUrl, t } = this.props;
-        const { DEFAULT_WELCOME_PAGE_LOGO_URL, DISPLAY_WELCOME_FOOTER } = interfaceConfig;
+        const { DISPLAY_WELCOME_FOOTER } = interfaceConfig;
         const showAdditionalCard = this._shouldShowAdditionalCard();
         const showAdditionalContent = this._shouldShowAdditionalContent();
         const showAdditionalToolbarContent = this._shouldShowAdditionalToolbarContent();
@@ -380,7 +379,7 @@ class WelcomePage extends AbstractWelcomePage<IProps> {
 
         const { downloadLink: iosDownloadLink } = ios;
 
-        const { fDroidUrl, downloadLink: androidDownloadLink } = android;
+        const { downloadLink: androidDownloadLink } = android;
 
         return (<footer className = 'welcome-footer'>
             <div className = 'welcome-footer-centered'>
@@ -390,14 +389,14 @@ class WelcomePage extends AbstractWelcomePage<IProps> {
                         <div>
                             <a
                                 className = 'welcome-badge'
-                                href = { iosDownloadLink }>
+                                href = 'https://gedui.com.br/solucoes.html#ancora_saibamais01'>
                                 <p>
                                     Gedui Edu
                                 </p>
                             </a>
                             <a
                                 className = 'welcome-badge'
-                                href = { androidDownloadLink }>
+                                href = 'https://gedui.com.br/solucoes.html#ancora_saibamais02'>
                                 <p>
                                     Gedui Corp
                                 </p>
@@ -406,23 +405,23 @@ class WelcomePage extends AbstractWelcomePage<IProps> {
                         <div className = ' '>
                             <a
                                 className = 'welcome-badge welcome-footer-social-media'
-                                href = { androidDownloadLink }>
+                                href = 'https://www.instagram.com/gedui_edu/'>
                                 <img
                                     alt = { t('welcomepage.instagram') }
                                     src = './images/icon_instagram.svg' />
                             </a>
                             <a
                                 className = 'welcome-badge welcome-footer-social-media'
-                                href = { androidDownloadLink }>
+                                href = 'https://www.linkedin.com/company/gedui-ecossistema-educacional/'>
                                 <img
-                                    alt = { t('welcomepage.instagram') }
+                                    alt = { t('welcomepage.linkedin') }
                                     src = './images/icon_linkedin.svg' />
                             </a>
                             <a
                                 className = 'welcome-badge welcome-footer-social-media'
-                                href = { androidDownloadLink }>
+                                href = 'https://wa.me/5511942858706'>
                                 <img
-                                    alt = { t('welcomepage.instagram') }
+                                    alt = { t('welcomepage.whatsapp') }
                                     src = './images/icon_whatsapp.svg' />
                             </a>
                         </div>
